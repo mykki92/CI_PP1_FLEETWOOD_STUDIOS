@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Philosopher&display=swap');
 
 body {
+    font-family: Didact Gothic, sans-serif;
+    color: #3a3a3a;
     background-color: #ffffff;
 }
+
+/*logo and navigation*/
 header {
     font-family: Philosopher, sans-serif;
     color: #3a3a3a;
@@ -38,8 +42,8 @@ a {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/*home page sections*/
 #image-outer {
-    font-family: Didact Gothic, sans-serif;
     height: 500px;
     width: 100%;
     overflow: hidden;
@@ -67,8 +71,30 @@ a {
     margin-top: 5px;
 }
 
+/*footer containing social links*/
 footer {
-    font-family: Didact Gothic, sans-serif;
+    margin-top: 5px;
     height: 100px;
     width: 100%;
+}
+
+.social-links {
+    text-align: center;
+    height: 60px;
+    overflow: hidden;
+}
+
+.social-links > li {
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+    padding-top: 20px;
+
+}
+
+.social-links i {
+    font-size: 130%;
+    margin: 0;
+    padding: 5%;
+    color: #3a3a3a;
 }
