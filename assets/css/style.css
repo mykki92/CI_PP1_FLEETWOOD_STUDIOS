@@ -27,6 +27,13 @@ a {
     font-size: 140%;
 }
 
+#navbar a:hover {
+    border-bottom: 1px solid #000000;
+}
+
+.active {
+    border-bottom: 1px solid #000000;
+}
 section {
     font-family: Didact Gothic, sans-serif;
 }
