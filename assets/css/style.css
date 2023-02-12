@@ -2,6 +2,29 @@
 
 header {
     font-family: Philosopher, sans-serif;
+    color: #000000;
+}
+
+#logo {
+    margin: 0;
+    padding: 0;
+    border: none;
+    letter-spacing: 2px;
+    font-size: 270%;
+    float: left;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#navbar li {
+    float: right;
+    list-style-type: none;
+    margin-top: 10px;
+    margin-right: 20px;
+    font-size: 140%;
 }
 
 section {
