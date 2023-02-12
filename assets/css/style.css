@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Philosopher&display=swap');
 
+body {
+    background-color: #ffffff;
+}
 header {
     font-family: Philosopher, sans-serif;
-    color: #000000;
+    color: #3a3a3a;
 }
 
 #logo {
@@ -15,7 +18,7 @@ header {
 }
 
 a {
-    color: #000000;
+    color: #3a3a3a;
     text-decoration: none;
 }
 
@@ -28,11 +31,11 @@ a {
 }
 
 #navbar a:hover {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 .active {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 #image-outer {
@@ -52,11 +55,16 @@ a {
 #studio-info {
     height: 400px;
     width: 100%;
+    background-color: #3a3a3a;
+    margin-top: 5px;
 }
 
 #community {
     height: 400px;
     width: 100%;
+    background: url('../images/shutterstock_341991797.jpg') no-repeat center center;
+    background-size: 100% 100%;
+    margin-top: 5px;
 }
 
 footer {
