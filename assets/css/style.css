@@ -37,15 +37,16 @@ a {
 
 #image-outer {
     font-family: Didact Gothic, sans-serif;
-    height: 400px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
-    position: relative;
 }
 
 #image {
-    height: 400px;
+    height: 500px;
     width: 100%;
+    background: url('../images/shutterstock_568192618.jpg') no-repeat center center;
+    background-size: 100% 100%;
 }
 
 #studio-info {
