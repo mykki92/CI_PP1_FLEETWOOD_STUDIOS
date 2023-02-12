@@ -34,10 +34,32 @@ a {
 .active {
     border-bottom: 1px solid #000000;
 }
-section {
+
+#image-outer {
     font-family: Didact Gothic, sans-serif;
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#image {
+    height: 400px;
+    width: 100%;
+}
+
+#studio-info {
+    height: 400px;
+    width: 100%;
+}
+
+#community {
+    height: 400px;
+    width: 100%;
 }
 
 footer {
     font-family: Didact Gothic, sans-serif;
+    height: 100px;
+    width: 100%;
 }
