@@ -53,16 +53,31 @@ a {
 }
 
 #header-text {
-    background-color: #C88E5C;
+    background-color: #D59967;
     color: #000000;
     position: absolute;
     top: 60px;
     left: 50px;
     width: 400px;
     height: 120px;
-    opacity: 70%;
+    opacity: 50%;
     text-align: center;
     letter-spacing: 2px;
+    font-weight: lighter;
+}
+
+#sessions-sidebox {
+    position: absolute;
+    right: 230px;
+    top: 130px;
+    width: 150px;
+    height: 150px;
+    background-color: #713735;
+    opacity: 40%;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
 }
 
 
