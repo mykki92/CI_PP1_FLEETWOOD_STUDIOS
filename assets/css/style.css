@@ -102,6 +102,7 @@ a {
     width: 300px;
     height: 300px;
     position: absolute;
+    margin: 0 auto;
     top: 50px;
     left: 500px;
     background-color: #FEEC88;
@@ -113,8 +114,29 @@ a {
 #networking-box p {
     text-align: center;
     width: 250px;
-    margin-top: 75px;
+    margin-top: 85px;
     margin-left: 25px;
+}
+
+#open-mic-box {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    background-color: #B14811;
+    text-align: center;
+    border-radius: 50%;
+    opacity: 50%;
+    font-weight: bold;
+}
+
+#open-mic-box p {
+    text-align: center;
+    color: #000000;
+    width: 180px;
+    margin-top: 70px;
+    margin-left: 10px;
 }
 
 /*footer containing social links*/
