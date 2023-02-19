@@ -38,14 +38,14 @@ a {
 }
 
 /*home page sections*/
-#image-outer {
+#header-image-outer {
     height: 500px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#image {
+#header-image {
     height: 500px;
     width: 100%;
     background: url('../images/shutterstock_568192618.jpg') no-repeat center center;
@@ -94,6 +94,27 @@ a {
     background: url('../images/shutterstock_341991797.jpg') no-repeat center center;
     background-size: 100% 100%;
     margin-top: 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+#networking-box {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    background-color: #FEEC88;
+    opacity: 50%;
+    text-align: center;
+    border-radius: 50%;
+}
+
+#networking-box p {
+    text-align: center;
+    width: 250px;
+    margin-top: 75px;
+    margin-left: 25px;
 }
 
 /*footer containing social links*/
