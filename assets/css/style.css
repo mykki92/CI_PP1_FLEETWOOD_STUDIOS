@@ -250,24 +250,24 @@ a {
 }
 
 #room-one-left {
-    float: left;
+    vertical-align: top;
+    display: inline-block;
     width: 30%;
-    text-align: left;
-    padding-top: 40px;
+    padding-left: 10px;
 }
 
 #room-one-right {
-    float: right;
+    vertical-align: top;
+    display: inline-block;
     width: 30%;
-    text-align: left;
-    padding-top: 40px;
+    padding-left: 10px;
 }
 
 #room-one-center {
-    margin: 0 auto;
+    vertical-align: top;
+    display: inline-block;
     width: 30%;
-    text-align: left;
-    padding-top: 40px;
+    padding-left: 10px;
 }
 
 /*footer containing social links*/
