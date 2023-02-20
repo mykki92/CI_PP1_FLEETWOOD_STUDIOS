@@ -116,6 +116,8 @@ a {
     width: 250px;
     margin-top: 85px;
     margin-left: 25px;
+    font-weight: bolder;
+    color: #000000;
 }
 
 #open-mic-box {
@@ -128,7 +130,6 @@ a {
     text-align: center;
     border-radius: 50%;
     opacity: 50%;
-    font-weight: bold;
 }
 
 #open-mic-box p {
@@ -137,6 +138,28 @@ a {
     width: 180px;
     margin-top: 70px;
     margin-left: 10px;
+    font-weight: bolder;
+}
+
+#drinks-box {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    background-color: #FE5248;
+    opacity: 50%;
+}
+
+#drinks-box p {
+    text-align: center;
+    color: #000000;
+    font-weight: bolder;
+    width: 180px;
+    margin-top: 70px;
+    margin-left: 10px;
+
 }
 
 /*footer containing social links*/
