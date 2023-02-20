@@ -315,6 +315,27 @@ a {
     background-size: 100% 100%;
 }
 
+#live-room-left {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
+#live-room-center {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
+#live-room-right {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
