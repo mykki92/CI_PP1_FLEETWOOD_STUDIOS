@@ -203,6 +203,7 @@ a {
     height: 400px;
     overflow: hidden;
 }
+
 #about-left {
     float: left;
     width: 25%;
@@ -233,6 +234,12 @@ a {
     width: 100%;
     height: 100%;
     border-radius: 50%;
+}
+
+#rooms {
+    width: 100%;
+    height: 400px;
+    background-color: #FE5248;
 }
 
 /*footer containing social links*/
