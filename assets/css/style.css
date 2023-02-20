@@ -282,6 +282,27 @@ a {
     background-size: 100% 100%;
 }
 
+#room-two-left {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
+#room-two-center {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
+#room-two-right {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
