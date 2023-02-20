@@ -237,10 +237,37 @@ a {
     border-radius: 50%;
 }
 
-#rooms {
+#room-one {
     width: 100%;
-    height: 400px;
-    background-color: #FE5248;
+    height: 800px;
+}
+
+#room-one-image {
+    width: 100%;
+    height: 500px;
+    background: url(../images/shutterstock_1125206966.jpg) no-repeat center center;
+    background-size: 100% 100%
+}
+
+#room-one-left {
+    float: left;
+    width: 30%;
+    text-align: left;
+    padding-top: 40px;
+}
+
+#room-one-right {
+    float: right;
+    width: 30%;
+    text-align: left;
+    padding-top: 40px;
+}
+
+#room-one-center {
+    margin: 0 auto;
+    width: 30%;
+    text-align: left;
+    padding-top: 40px;
 }
 
 /*footer containing social links*/
