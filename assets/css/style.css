@@ -375,6 +375,21 @@ a {
     text-align: center;
 }
 
+/*contact page sections*/
+#contact {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+}
+
+#contact-image {
+    width: 100%;
+    height: 600px;
+    background: url('../images/contact_page_image.jpg') no-repeat center center;
+    background-size: 100% 100%;
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
