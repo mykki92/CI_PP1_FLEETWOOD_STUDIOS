@@ -351,6 +351,30 @@ a {
     background-size: 100% 100%;
 }
 
+#recording-info-left {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#recording-info-center {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
+
+#recording-info-right {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
