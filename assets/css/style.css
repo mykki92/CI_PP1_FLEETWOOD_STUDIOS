@@ -417,6 +417,42 @@ a {
     border-color: #3a3a3a;
 }
 
+#fname {
+    position: absolute;
+    left: 170px;
+    top: 100px;
+}
+
+#fname-label {
+    position: absolute;
+    left: 60px;
+    top: 110px;
+}
+
+#lname {
+    position: absolute;
+    left: 570px;
+    top: 100px;
+}
+
+#lname-label {
+    position: absolute;
+    left: 480px;
+    top: 110px;
+}
+
+#email {
+    position: absolute;
+    left: 170px;
+    top: 150px;
+}
+
+#email-label {
+    position: absolute;
+    left: 60px;
+    top: 160px;
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
