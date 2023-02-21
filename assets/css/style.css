@@ -404,6 +404,12 @@ a {
     margin-bottom: 20px;
 }
 
+#form-heading {
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}
+
 .text-input {
     background: transparent;
     color: #fafafa;
