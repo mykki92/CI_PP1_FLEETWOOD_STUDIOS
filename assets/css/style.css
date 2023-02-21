@@ -411,8 +411,8 @@ a {
 }
 
 .text-input {
-    background: transparent;
-    color: #fafafa;
+    background-color: #ffffff;
+    color: #3a3a3a;
     width: 20%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -494,6 +494,20 @@ a {
     position: absolute;
     left: 305px;
     top: 210px;
+}
+
+#enquiry-box {
+    position: absolute;
+    left: 60px;
+    top: 300px;
+    width: 600px;
+    height: 200px;
+}
+
+#enquiry-text {
+    position: absolute;
+    left: 60px;
+    top: 250px;
 }
 
 /*footer containing social links*/
