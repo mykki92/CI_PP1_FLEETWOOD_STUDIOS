@@ -48,7 +48,7 @@ a {
 #header-image {
     height: 500px;
     width: 100%;
-    background: url('../images/shutterstock_568192618.jpg') no-repeat center center;
+    background: url('../images/studio_main_image.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
 
@@ -127,7 +127,7 @@ a {
 #community {
     height: 400px;
     width: 100%;
-    background: url('../images/shutterstock_341991797.jpg') no-repeat center center;
+    background: url('../images/social_lounge.jpg') no-repeat center center;
     background-size: 100% 100%;
     margin-top: 5px;
     overflow: hidden;
@@ -231,7 +231,7 @@ a {
 }
 
 #rehearsal-image {
-    background: url(../images/640-guy-plays-guitar-girl-sings-african-american-man-with-white-girl-rehearsing-in-the-studio-together.jpg) no-repeat center center;
+    background: url('../images/singer_and_guitar_player.jpg') no-repeat center center;
     width: 100%;
     height: 100%;
     border-radius: 50%;
@@ -245,7 +245,7 @@ a {
 #room-one-image {
     width: 100%;
     height: 500px;
-    background: url(../images/shutterstock_1125206966.jpg) no-repeat center center;
+    background: url('../images/room_one.jpg') no-repeat center center;
     background-size: 100% 100%
 }
 
@@ -278,7 +278,7 @@ a {
 #room-two-image {
     width: 100%;
     height: 500px;
-    background: url(../images/shutterstock_710618257.jpg) no-repeat center center;
+    background: url('../images/room_two.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
 
@@ -311,7 +311,7 @@ a {
 #live-room-image {
     width: 100%;
     height: 500px;
-    background: url(../images/shutterstock_1661118181.jpg) no-repeat center center;
+    background: url('../images/live_room.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
 
@@ -334,6 +334,21 @@ a {
     display: inline-block;
     width: 30%;
     padding-left: 10px;
+}
+
+/*recording page sections*/
+#recording-info {
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+}
+
+#recording-image {
+    width: 100%;
+    height: 500px;
+    background: url('../images/recording_studio_main.jpg') no-repeat center center;
+    background-size: 100% 100%;
 }
 
 /*footer containing social links*/
