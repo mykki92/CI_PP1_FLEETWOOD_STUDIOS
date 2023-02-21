@@ -376,18 +376,45 @@ a {
 }
 
 /*contact page sections*/
-#contact {
-    width: 100%;
-    height: 600px;
+#enquiries {
+    clear: left;
+    background: url('../images/contact_page_image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
     overflow: hidden;
     position: relative;
+    color: #ffffff;
 }
 
-#contact-image {
-    width: 100%;
+.enquiry-form {
+    color: #ffffff;
+    background-color: #ffffff;
+    opacity: 50%;
+    width: 800px;
     height: 600px;
-    background: url('../images/contact_page_image.jpg') no-repeat center center;
-    background-size: 100% 100%;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    padding: 30px;
+}
+
+.enquiry-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 20%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #3a3a3a;
 }
 
 /*footer containing social links*/

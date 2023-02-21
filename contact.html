@@ -32,8 +32,24 @@
             </ul>
         </nav>
     </header>
-    <section id="contact">
-        <div id="contact-image"></div>
+    <section id="enquiries">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="enquiry-form"></form>
+        <h2>Contact us here for more information or to make a booking:</h2>
+        <label for="fname">First Name</label>
+        <input id="fname" name="first_name" type="text" class="text-input" required>
+                
+        <label for="lname">Last Name</label>
+        <input id="lname" name="last_name" type="text" class="text-input" required>
+                
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email_address" class="text-input" required>
+
+        <label for="rehearsal">Rehearsal</label>
+        <input type="radio" id="rehearsal" name="enquiry_type" value="rehearsal" required>
+        <label for="recording">Recording</label>
+        <input type="radio" id="recording" name="enquiry_type" value="recording" required>
+        <label for="general_enquiry">General Enquiry</label>
+        <input type="radio" id="general_enquiry" name="enquiry_type" value="general_enquiry" required>
     </section>
     <footer>
         <ul class="social-links">
