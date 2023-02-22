@@ -72,7 +72,7 @@ a {
     top: 130px;
     width: 150px;
     height: 150px;
-    background-color: #713735;
+    background-color: #D59967;
     opacity: 40%;
     color: #000000;
     text-align: center;
@@ -510,24 +510,6 @@ a {
     top: 250px;
 }
 
-/* 404 page*/
-
-#error-img-cont {
-    max-width: 500px;
-}
-
-.home-btn {
-    background-color: var(--dark-brown);
-    color: var(--off-white);
-    text-decoration: none;
-    display: block;
-    border-radius: 0.25rem;
-}
-
-.home-btn:hover {
-    color: var(--light-grey);
-}
-
 /*footer containing social links*/
 footer {
     margin-top: 5px;
@@ -571,6 +553,7 @@ footer {
     }
     #header-text {
         width: 280px;
+        height: 70px;
         font-size: 60%;
         position: absolute;
         left: 0px;
@@ -656,19 +639,55 @@ footer {
         top: 530px;
     }
     #room-one {
-        height: 950px;
+        height: 800px;
         width: 320px;
         font-size: 60%;
+    }
+    #room-one-left {
+        width: 300px;
+        text-align: left;
+    }
+    #room-one-center {
+        width: 300px;
+        text-align: left;
+    }
+    #room-one-right {
+        width: 300px;
+        text-align: left;
     }
     #room-two {
-        height: 950px;
+        height: 800px;
         width: 320px;
         font-size: 60%;
     }
+    #room-two-left {
+        width: 300px;
+        text-align: left;
+    }
+    #room-two-center {
+        width: 300px;
+        text-align: left;
+    }
+    #room-two-right {
+        width: 300px;
+        text-align: left;
+    }
     #live-room {
-        height: 950px;
+        height: 800px;
         width: 320px;
         font-size: 60%;
+    }
+    #live-room-left {
+        width: 300px;
+        text-align: left;
+    }
+    #live-room-center {
+        width: 300px;
+        text-align: left;
+    }
+    #live-room-right {
+        width: 300px;
+        text-align: left;
     }
     #recording-info{
         width: 320px;
@@ -691,5 +710,96 @@ footer {
         width: 320px;
         height: 800px;
         position: relative;
+    }
+    .enquiry-form {
+        width: 280px;
+        height: 670px;
+        position: absolute;
+        left: 10px;
+        top: 20px;
+    }
+    #form-heading {
+        width: 260px;
+        position: absolute;
+        left: 20px;
+        top: 30px;
+    }
+    #fname {
+        width: 200px;
+        position: absolute;
+        left: 100px;
+        top: 150px;
+    }
+    #fname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 150px;
+    }
+    #lname {
+        width: 200px;
+        position: absolute;
+        left: 100px;
+        top: 200px;
+    }
+    #lname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 200px;
+    }
+    #email {
+        width: 200px;
+        position: absolute;
+        left: 100px;
+        top: 250px;
+    }
+    #email-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 250px;
+    }
+    #rehearsal {
+        position: absolute;
+        left: 20px;
+        top: 300px;
+    }
+    #rehearsal-label {
+        position: absolute;
+        left: 50px;
+        top: 300px;
+    }
+    #recording {
+        position: absolute;
+        left: 150px;
+        top: 300px;
+    }
+    #recording-label {
+        position: absolute;
+        left: 180px;
+        top: 300px;
+    }
+    #enquiry {
+        position: absolute;
+        left: 20px;
+        top: 330px;
+    }
+    #enquiry-label {
+        position: absolute;
+        left: 50px;
+        top: 330px;
+    }
+    #enquiry-text {
+        position: absolute;
+        left: 20px;
+        top: 350px;
+    }
+    #enquiry-box {
+        width: 280px;
+        height: 300px;
+        position: absolute;
+        left: 20px;
+        top: 400px ;
     }
 }
