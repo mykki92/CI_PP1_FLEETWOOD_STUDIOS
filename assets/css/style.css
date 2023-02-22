@@ -656,9 +656,40 @@ footer {
         top: 530px;
     }
     #room-one {
-        height: 1000px;
+        height: 950px;
         width: 320px;
         font-size: 60%;
     }
-    
+    #room-two {
+        height: 950px;
+        width: 320px;
+        font-size: 60%;
+    }
+    #live-room {
+        height: 950px;
+        width: 320px;
+        font-size: 60%;
+    }
+    #recording-info{
+        width: 320px;
+        height: 1000px;
+        font-size: 80%;
+    }
+    #recording-info-left {
+        width: 300px;
+        text-align: center;
+    }
+    #recording-info-center {
+        width: 300px;
+        text-align: center;
+    }
+    #recording-info-right {
+        width: 300px;
+        text-align: center;
+    }
+    #enquiries {
+        width: 320px;
+        height: 800px;
+        position: relative;
+    }
 }
