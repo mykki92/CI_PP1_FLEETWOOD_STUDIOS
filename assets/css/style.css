@@ -510,6 +510,24 @@ a {
     top: 250px;
 }
 
+/* 404 page*/
+
+#error-img-cont {
+    max-width: 500px;
+}
+
+.home-btn {
+    background-color: var(--dark-brown);
+    color: var(--off-white);
+    text-decoration: none;
+    display: block;
+    border-radius: 0.25rem;
+}
+
+.home-btn:hover {
+    color: var(--light-grey);
+}
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
@@ -535,4 +553,55 @@ footer {
     margin: 0;
     padding: 5%;
     color: #3a3a3a;
+}
+
+/*media queries*/
+@media screen and (max-width: 320px) {
+    #header {
+        width: 320px;
+    }
+    #logo {
+        margin: 0 auto;
+        text-align: center;
+        width: 320px;
+    }
+    #nav > li {
+        float: left;
+        clear: left;
+    }
+    #header-text {
+        width: 280px;
+        font-size: 60%;
+        position: absolute;
+        left: 0px;
+        top: 50px;
+    }
+    #sessions-sidebox {
+        position: absolute;
+        left: 85px;
+        top: 300px;
+    }
+    #community {
+        position: relative;
+    }
+    #networking-box {
+        width: 150px;
+        height: 150px;
+        position: absolute;
+        left: 85px;
+        top: 200px;
+        font-size: 60%;
+    }
+    #open-mic-box {
+        width: 120px;
+        height: 120px;
+        position: absolute;
+        left: 30px;
+        top: 300px;
+        font-size: 60%;
+
+    }
+    #drinks-box {
+
+    }
 }
