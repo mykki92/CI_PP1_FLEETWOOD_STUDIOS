@@ -547,10 +547,6 @@ footer {
         text-align: center;
         width: 320px;
     }
-    #nav > li {
-        float: left;
-        clear: left;
-    }
     #header-text {
         width: 280px;
         height: 70px;
