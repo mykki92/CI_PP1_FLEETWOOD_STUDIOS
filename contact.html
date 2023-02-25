@@ -8,14 +8,17 @@
     <meta name="keywords" content="rehearsal, recording, studio, brighton, england">
 
     <link rel="stylesheet" href="assets/css/style.css">
+    <!--Favicon-->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
     <title>Fleetwood Studios</title>
 </head>
 <body>
     <header>
+        <!--Header logo-->
         <a href="index.html">
             <h1 id="logo">Fleetwood Studios</h1>
         </a>
+        <!--Nav bar-->
         <nav>
             <ul id="navbar">
                 <li id="contact-button">
@@ -33,29 +36,29 @@
             </ul>
         </nav>
     </header>
+    <!--Enquiry and booking form-->
     <section id="enquiries">
         <form method="POST" action="https://formdump.codeinstitute.net/" class="enquiry-form"></form>
         <h2 id="form-heading">Contact us here for more information or to make a booking:</h2>
+        <!--Text inputs-->
         <label for="fname" id="fname-label">First Name:</label>
         <input id="fname" name="first_name" type="text" class="text-input" required>
-                
         <label for="lname" id="lname-label">Last Name:</label>
         <input id="lname" name="last_name" type="text" class="text-input" required>
-                
         <label for="email" id="email-label">Email Address:</label>
         <input type="email" id="email" name="email_address" class="text-input" required>
-
+        <!--Radio buttons-->
         <label for="rehearsal" id="rehearsal-label">Rehearsal</label>
         <input type="radio" id="rehearsal" name="enquiry_type" value="rehearsal" required>
         <label for="recording" id="recording-label">Recording</label>
         <input type="radio" id="recording" name="enquiry_type" value="recording" required>
         <label for="enquiry" id="enquiry-label">General Enquiry</label>
         <input type="radio" id="enquiry" name="enquiry_type" value="general_enquiry" required>
-        
+        <!--Textbox-->
         <p id="enquiry-text">Please make your enquiry below:</p>
         <textarea id="enquiry-box" cols="10" rows="5"></textarea>
-
     </section>
+    <!--Footer with social media links-->
     <footer>
         <ul class="social-links">
             <li>
@@ -76,7 +79,7 @@
                 aria-label="Visit our Youtube page (opens in a new tab)"><i class="fab fa-youtube"></i></a>
         </ul>
     </footer>
-
+    <!--Font Awesome kit-->
     <script src="https://kit.fontawesome.com/e0975b6566.js" crossorigin="anonymous"></script>
 </body>
 </html>
