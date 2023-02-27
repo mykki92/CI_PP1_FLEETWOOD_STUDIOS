@@ -489,11 +489,13 @@ footer {
         top: 50px;
     }
     #studio-info {
-        height: 600px;
+        height: 550px;
     }
     #info-bottom {
+        width: 100%;
         position: absolute;
-        left: 0px;
+        left: 10px;
+        top: 420px;
         text-align: center;
     }
     #rehearsal-info {
@@ -502,6 +504,7 @@ footer {
     }
     #rehearsal-image-outer {
         width: 95%;
+        max-width: 320px;
         padding-top: 70px;
         height: 320px;
         margin: 0 auto;
@@ -694,4 +697,244 @@ footer {
         margin: 0 auto;
     }
 }
+
+@media screen and (min-width: 451px) and (max-width: 788px) {
+    #header {
+        width: 100%;
+    }
+    #logo {
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+    }
+    nav {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #navbar li {
+        display: inline-block;
+        width: 25%;
+        margin: 0 auto;
+        text-align: left;
+        font-size: 100%;
+    }
+    #header-text {
+        width: 80%;
+        height: 90px;
+        font-size: 70%;
+        position: absolute;
+        left: 0px;
+        top: 50px;
+    }
+    #studio-info {
+        width: 100%;
+        height: 450px;
+    }
+    #info-bottom {
+        width: 100%;
+        position: absolute;
+        left: 10px;
+        top: 300px;
+        text-align: center;
+    }    
+    #rehearsal-info {
+        width: 100%;
+        height: 750px;
+    }
+    #rehearsal-image-outer {
+        width: 95%;
+        max-width: 320px;
+        padding-top: 70px;
+        height: 320px;
+        margin: 0 auto;
+    }
+    #rehearsal-image {
+        width: 95%;
+        height: 300px;
+        margin: 0 auto;
+    }
+    #about-left {
+        width: 90%;
+        text-align: center;
+        position: absolute;
+        left: 10px;
+        top: 380px;
+        padding-left: 0;
+    }
+    #about-right {
+        width: 90%;
+        text-align: center;
+        position: absolute;
+        left: 10px;
+        top: 530px;
+    }
+    #room-one {
+        height: 850px;
+        width: 100%;
+        font-size: 70%;
+    }
+    #room-one-left {
+        width: 95%;
+        text-align: left;
+    }
+    #room-one-center {
+        width: 95%;
+        text-align: left;
+    }
+    #room-one-right {
+        width: 95%;
+        text-align: left;
+    }
+    #room-two {
+        height: 850px;
+        width: 100%;
+        font-size: 70%;
+    }
+    #room-two-left {
+        width: 95%;
+        text-align: left;
+    }
+    #room-two-center {
+        width: 95%;
+        text-align: left;
+    }
+    #room-two-right {
+        width: 95%;
+        text-align: left;
+    }
+    #live-room {
+        height: 850px;
+        width: 100%;
+        font-size: 70%;
+    }
+    #live-room-left {
+        width: 95%;
+        text-align: left;
+    }
+    #live-room-center {
+        width: 95%;
+        text-align: left;
+    }
+    #live-room-right {
+        width: 95%;
+        text-align: left;
+    }
+    #recording-info{
+        width: 100%;
+        height: 850px;
+        font-size: 80%;
+    }
+    #recording-info-left {
+        width: 95%;
+        text-align: center;
+    }
+    #recording-info-center {
+        width: 95%;
+        text-align: center;
+    }
+    #recording-info-right {
+        width: 95%;
+        text-align: center;
+    }
+    #enquiries {
+        width: 100%;
+        height: 800px;
+        position: relative;
+    }
+    .enquiry-form {
+        width: 90%;
+        height: 670px;
+        position: absolute;
+        left: 10px;
+        top: 20px;
+    }
+    #form-heading {
+        width: 80%;
+        position: absolute;
+        left: 20px;
+        top: 30px;
+    }
+    #fname {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 150px;
+    }
+    #fname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 150px;
+    }
+    #lname {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 200px;
+    }
+    #lname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 200px;
+    }
+    #email {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 250px;
+    }
+    #email-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 250px;
+    }
+    #rehearsal {
+        position: absolute;
+        left: 20px;
+        top: 300px;
+    }
+    #rehearsal-label {
+        position: absolute;
+        left: 50px;
+        top: 300px;
+    }
+    #recording {
+        position: absolute;
+        left: 150px;
+        top: 300px;
+    }
+    #recording-label {
+        position: absolute;
+        left: 180px;
+        top: 300px;
+    }
+    #enquiry {
+        position: absolute;
+        left: 20px;
+        top: 330px;
+    }
+    #enquiry-label {
+        position: absolute;
+        left: 50px;
+        top: 330px;
+    }
+    #enquiry-text {
+        position: absolute;
+        left: 20px;
+        top: 350px;
+    }
+    #enquiry-box {
+        width: 85%;
+        height: 300px;
+        position: absolute;
+        left: 20px;
+        top: 400px ;
+    }
+    footer {
+        margin: 0 auto;
+    }
+}
+
 
