@@ -460,7 +460,7 @@ footer {
 }
 
 /*media queries*/
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 450px) {
     #header {
         width: 100%;
     }
@@ -498,11 +498,12 @@ footer {
     }
     #rehearsal-info {
         width: 100%;
-        height: 700px;
+        height: 750px;
     }
     #rehearsal-image-outer {
         width: 95%;
-        height: 300px;
+        padding-top: 70px;
+        height: 320px;
         margin: 0 auto;
     }
     #rehearsal-image {
