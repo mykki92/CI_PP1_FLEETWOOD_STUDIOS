@@ -66,20 +66,6 @@ a {
     font-weight: lighter;
 }
 
-#sessions-sidebox {
-    position: absolute;
-    right: 230px;
-    top: 130px;
-    width: 150px;
-    height: 150px;
-    background-color: #D59967;
-    opacity: 40%;
-    color: #000000;
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: bolder;
-}
-
 #studio-info {
     height: 250px;
     width: 100%;
@@ -122,9 +108,6 @@ a {
 
 #info-bottom a:hover {
     text-decoration: underline;
-}
-
-
 }
 
 #networking-box p {
@@ -494,11 +477,6 @@ footer {
         left: 0px;
         top: 50px;
     }
-    #sessions-sidebox {
-        position: absolute;
-        left: 85px;
-        top: 300px;
-    }
     #studio-info {
         height: 600px;
     }
@@ -691,5 +669,30 @@ footer {
         position: absolute;
         left: 20px;
         top: 400px ;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    #header {
+        width: 420px;
+    }
+    #logo {
+        margin: 0 auto;
+        text-align: center;
+        width: 420px;
+    }
+    #header-image-outer {
+        width: 420px;
+    }
+    #header-image {
+        background-size: cover;
+    }
+    #header-text {
+        width: 380px;
+        height: 70px;
+        font-size: 60%;
+        position: absolute;
+        left: 0px;
+        top: 50px;
     }
 }
