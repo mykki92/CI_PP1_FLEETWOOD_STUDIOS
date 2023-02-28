@@ -470,6 +470,16 @@ footer {
     margin: 0 auto;
     font-size: 200%;
 }
+.content-404 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 140%;
+}
+.homepage-link {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 120%;
+}
 
 /*media queries*/
 @media screen and (min-width: 320px) and (max-width: 450px) {
