@@ -491,6 +491,22 @@ footer {
     #studio-info {
         height: 550px;
     }
+    #info-left {
+        width: 95%;
+        margin: 0 auto;
+        text-align: center;
+        padding-left: 10px;
+    }
+    #info-right {
+        width: 95%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #info-center {
+        width: 95%;
+        margin: 0 auto;
+        text-align: center;
+    }
     #info-bottom {
         width: 100%;
         position: absolute;
