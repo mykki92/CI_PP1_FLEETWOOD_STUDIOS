@@ -870,9 +870,13 @@ footer {
         width: 95%;
         text-align: center;
     }
+    #contact {
+        width: 100%;
+        height: 1060px;
+    }
     #enquiries {
         width: 100%;
-        height: 800px;
+        height: 640px;
         position: relative;
     }
     .enquiry-form {
@@ -966,12 +970,25 @@ footer {
         left: 20px;
         top: 380px ;
     }
+    #google-map {
+        width: 100%;
+        height: 400px;
+        position: relative;
+    }
+    #google-map iframe {
+        width: 95%;
+        height: 400px;
+        position: absolute;
+        left: 10px;
+        top: 10px;
+    }
     footer {
         margin: 0 auto;
     }
 }
 
 @media screen and (min-width: 951px) and (max-width: 1300px) {
+    /*rehearsal page*/
     #rehearsal-info {
         width: 100%;
         height: 600px;
@@ -999,6 +1016,7 @@ footer {
         margin: 0 auto;
         padding-top: 100px;
     }
+    /*recording page*/
     #recording-info {
         width: 100%;
         height: 800px;
@@ -1011,11 +1029,13 @@ footer {
         top: 170px;
         text-align: center;
     }
+    /*contact page*/
     #enquiries {
         width: 50%;
         height: 800px;
         position: relative;
     }
+    /*enquiry and booking form*/
     .enquiry-form {
         width: 100%;
         height: 680px;
@@ -1106,5 +1126,19 @@ footer {
         position: absolute;
         left: 20px;
         top: 350px ;
+    }
+    /*embedded google-map*/
+    #google-map {
+        vertical-align: top;
+        display: inline-block;
+        width: 45%;
+        padding-right: 10px;
+    }
+    #google-map iframe {
+        width: 45%;
+        height: 680px;
+        position: absolute;
+        right: 10px;
+        top: 20px;
     }
 }
