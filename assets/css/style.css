@@ -297,12 +297,17 @@ a {
     text-align: center;
 }
 
-/*contact page sections*/
+/*contact page*/
 #contact {
     clear: both;
     overflow: hidden;
     position: relative;
     height: 900px;
+}
+/*enquiry and booking form*/
+#contact {
+    width: 100%;
+    height: 700px;
 }
 #enquiries {
     vertical-align: top;
@@ -426,7 +431,6 @@ a {
     width: 45%;
     padding-right: 10px;
 }
-
 #google-map iframe {
     width: 45%;
     height: 580px;
@@ -434,7 +438,35 @@ a {
     right: 10px;
     top: 30px;
 }
-
+/*contact information*/
+#contact-info {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    left: 20px;
+    top: 650px;
+}
+#address {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
+#email-address {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
+#phone-number {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    text-align: center;
+}
 /*footer containing social links*/
 footer {
     margin-top: 5px;
@@ -636,10 +668,12 @@ footer {
         width: 95%;
         text-align: center;
     }
+    /*contact page*/
     #contact {
         width: 100%;
-        height: 1400px;
+        height: 1300px;
     }
+    /*enquiry and booking form*/
     #enquiries {
         width: 100%;
         height: 800px;
@@ -741,6 +775,7 @@ footer {
         left: 20px;
         top: 740px;
     }
+    /*embedded google map*/
     #google-map {
         width: 100%;
         height: 400px;
@@ -753,6 +788,30 @@ footer {
         left: 10px;
         top: 40px;
     }
+    /*contact information*/
+    #contact-info {
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        left: 0px;
+        top: 1250px;
+    }
+    #address {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #email-address {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #phone-number {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    /*footer with social media links*/
     footer {
         margin: 0 auto;
     }
@@ -896,10 +955,12 @@ footer {
         width: 95%;
         text-align: center;
     }
+    /*contact page*/
     #contact {
         width: 100%;
-        height: 1060px;
+        height: 1180px;
     }
+    /*enquiry and booking form*/
     #enquiries {
         width: 100%;
         height: 640px;
@@ -1013,6 +1074,30 @@ footer {
         left: 10px;
         top: 10px;
     }
+    /*contact information*/
+    #contact-info {
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        left: 0px;
+        top: 1100px;
+    }
+    #address {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #email-address {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #phone-number {
+        width: 100%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    /*footer with social media links*/
     footer {
         margin: 0 auto;
     }
@@ -1061,12 +1146,16 @@ footer {
         text-align: center;
     }
     /*contact page*/
+    #contact {
+        width: 100%;
+        height: 750px;
+    }
+    /*enquiry and booking form*/
     #enquiries {
         width: 50%;
         height: 800px;
         position: relative;
     }
-    /*enquiry and booking form*/
     .enquiry-form {
         width: 100%;
         height: 650px;
@@ -1176,5 +1265,34 @@ footer {
         position: absolute;
         right: 10px;
         top: 20px;
+    }
+    /*contact information*/
+    #contact-info {
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        left: 20px;
+        top: 720px;
+    }
+    #address {
+        vertical-align: top;
+        display: inline-block;
+        width: 30%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #email-address {
+        vertical-align: top;
+        display: inline-block;
+        width: 30%;
+        padding-left: 10px;
+        text-align: center;
+    }
+    #phone-number {
+        vertical-align: top;
+        display: inline-block;
+        width: 30%;
+        padding-left: 10px;
+        text-align: center;
     }
 }
