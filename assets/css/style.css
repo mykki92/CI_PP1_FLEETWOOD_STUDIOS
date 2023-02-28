@@ -617,8 +617,8 @@ footer {
         position: relative;
     }
     .enquiry-form {
-        width: 90%;
-        height: 670px;
+        width: 95%;
+        height: 720px;
         position: absolute;
         left: 10px;
         top: 20px;
@@ -695,10 +695,10 @@ footer {
         left: 50px;
         top: 330px;
     }
-    #enquiry-text {
+    #enquiry-box-label {
         position: absolute;
         left: 20px;
-        top: 350px;
+        top: 370px;
     }
     #enquiry-box {
         width: 85%;
