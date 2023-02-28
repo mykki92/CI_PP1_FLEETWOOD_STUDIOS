@@ -298,19 +298,24 @@ a {
 }
 
 /*contact page sections*/
-#enquiries {
-    clear: left;
-    height: 900px;
+#contact {
+    clear: both;
     overflow: hidden;
     position: relative;
-    color: #ffffff;
+    height: 900px;
+}
+#enquiries {
+    vertical-align: top;
+    display: inline-block;
+    width: 45%;
+    padding-left: 10px;
 }
 .enquiry-form {
     color: #ffffff;
     background-color: #000000;
     opacity: 50%;
-    width: 45%;
-    height: 600px;
+    width: 50%;
+    height: 530px;
     position: absolute;
     left: 10px;
     top: 30px;
@@ -352,7 +357,7 @@ a {
 }
 #lname-label {
     position: absolute;
-    left: 320px;
+    left: 330px;
     top: 110px;
 }
 #email {
@@ -408,6 +413,21 @@ a {
     position: absolute;
     left: 20px;
     top: 260px;
+}
+/*embedded google-map*/
+#google-map {
+    vertical-align: top;
+    display: inline-block;
+    width: 45%;
+    padding-right: 10px;
+}
+
+#google-map iframe {
+    width: 45%;
+    height: 530px;
+    position: absolute;
+    right: 10px;
+    top: 30px;
 }
 
 /*footer containing social links*/
