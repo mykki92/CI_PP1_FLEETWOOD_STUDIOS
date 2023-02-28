@@ -315,7 +315,7 @@ a {
     background-color: #000000;
     opacity: 50%;
     width: 50%;
-    height: 530px;
+    height: 580px;
     position: absolute;
     left: 10px;
     top: 30px;
@@ -414,6 +414,11 @@ a {
     left: 20px;
     top: 260px;
 }
+#submit-button {
+    position: absolute;
+    left: 20px;
+    top: 530px;
+}
 /*embedded google-map*/
 #google-map {
     vertical-align: top;
@@ -424,7 +429,7 @@ a {
 
 #google-map iframe {
     width: 45%;
-    height: 530px;
+    height: 580px;
     position: absolute;
     right: 10px;
     top: 30px;
@@ -731,6 +736,11 @@ footer {
         left: 20px;
         top: 400px ;
     }
+    #submit-button {
+        position: absolute;
+        left: 20px;
+        top: 740px;
+    }
     #google-map {
         width: 100%;
         height: 400px;
@@ -906,85 +916,90 @@ footer {
         width: 80%;
         position: absolute;
         left: 20px;
-        top: 20px;
+        top: 0px;
     }
     #fname {
         width: 55%;
         position: absolute;
         left: 100px;
-        top: 150px;
+        top: 100px;
     }
     #fname-label {
         width: 70px;
         position: absolute;
         left: 20px;
-        top: 150px;
+        top: 100px;
     }
     #lname {
         width: 55%;
         position: absolute;
         left: 100px;
-        top: 200px;
+        top: 150px;
     }
     #lname-label {
         width: 70px;
         position: absolute;
         left: 20px;
-        top: 200px;
+        top: 150px;
     }
     #email {
         width: 55%;
         position: absolute;
         left: 100px;
-        top: 250px;
+        top: 200px;
     }
     #email-label {
         width: 70px;
         position: absolute;
         left: 20px;
-        top: 250px;
+        top: 200px;
     }
     #rehearsal {
         position: absolute;
         left: 20px;
-        top: 300px;
+        top: 250px;
     }
     #rehearsal-label {
         position: absolute;
         left: 50px;
-        top: 300px;
+        top: 250px;
     }
     #recording {
         position: absolute;
         left: 130px;
-        top: 300px;
+        top: 250px;
     }
     #recording-label {
         position: absolute;
         left: 160px;
-        top: 300px;
+        top: 250px;
     }
     #enquiry {
         position: absolute;
         left: 240px;
-        top: 300px;
+        top: 250px;
     }
     #enquiry-label {
         position: absolute;
         left: 270px;
-        top: 300px;
+        top: 250px;
     }
     #enquiry-box-label {
         position: absolute;
         left: 20px;
-        top: 350px;
+        top: 300px;
     }
     #enquiry-box {
         width: 90%;
         height: 200px;
         position: absolute;
         left: 20px;
-        top: 380px ;
+        top: 330px ;
+    }
+    #submit-button {
+        position: absolute;
+        left: 20px;
+        top: 570px;
     }
     #google-map {
         width: 100%;
@@ -1054,7 +1069,7 @@ footer {
     /*enquiry and booking form*/
     .enquiry-form {
         width: 100%;
-        height: 680px;
+        height: 650px;
         position: absolute;
         left: 10px;
         top: 20px;
@@ -1138,10 +1153,15 @@ footer {
     }
     #enquiry-box {
         width: 90%;
-        height: 300px;
+        height: 200px;
         position: absolute;
         left: 20px;
         top: 350px ;
+    }
+    #submit-button {
+        position: absolute;
+        left: 20px;
+        top: 590px;
     }
     /*embedded google-map*/
     #google-map {
@@ -1152,7 +1172,7 @@ footer {
     }
     #google-map iframe {
         width: 45%;
-        height: 680px;
+        height: 650px;
         position: absolute;
         right: 10px;
         top: 20px;
