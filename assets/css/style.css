@@ -984,4 +984,11 @@ footer {
         height: 800px;
         font-size: 100%;
     }
+    #info-bottom {
+        width: 90%;
+        position: absolute;
+        left: 50px;
+        top: 170px;
+        text-align: center;
+    }
 }
