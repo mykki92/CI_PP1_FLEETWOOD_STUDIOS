@@ -991,4 +991,100 @@ footer {
         top: 170px;
         text-align: center;
     }
+    #enquiries {
+        width: 50%;
+        height: 800px;
+        position: relative;
+    }
+    .enquiry-form {
+        width: 100%;
+        height: 700px;
+        position: absolute;
+        left: 10px;
+        top: 20px;
+    }
+    #form-heading {
+        width: 80%;
+        position: absolute;
+        left: 20px;
+        top: 10px;
+    }
+    #fname {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 100px;
+    }
+    #fname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 100px;
+    }
+    #lname {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 150px;
+    }
+    #lname-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 150px;
+    }
+    #email {
+        width: 55%;
+        position: absolute;
+        left: 100px;
+        top: 200px;
+    }
+    #email-label {
+        width: 70px;
+        position: absolute;
+        left: 20px;
+        top: 200px;
+    }
+    #rehearsal {
+        position: absolute;
+        left: 20px;
+        top: 300px;
+    }
+    #rehearsal-label {
+        position: absolute;
+        left: 50px;
+        top: 300px;
+    }
+    #recording {
+        position: absolute;
+        left: 150px;
+        top: 300px;
+    }
+    #recording-label {
+        position: absolute;
+        left: 180px;
+        top: 300px;
+    }
+    #enquiry {
+        position: absolute;
+        left: 20px;
+        top: 330px;
+    }
+    #enquiry-label {
+        position: absolute;
+        left: 50px;
+        top: 330px;
+    }
+    #enquiry-text {
+        position: absolute;
+        left: 20px;
+        top: 350px;
+    }
+    #enquiry-box {
+        width: 90%;
+        height: 300px;
+        position: absolute;
+        left: 20px;
+        top: 370px ;
+    }
 }
