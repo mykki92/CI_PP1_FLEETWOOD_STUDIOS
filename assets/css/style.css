@@ -627,7 +627,7 @@ footer {
         width: 80%;
         position: absolute;
         left: 20px;
-        top: 30px;
+        top: 20px;
     }
     #fname {
         width: 55%;
@@ -856,8 +856,8 @@ footer {
         position: relative;
     }
     .enquiry-form {
-        width: 90%;
-        height: 670px;
+        width: 95%;
+        height: 620px;
         position: absolute;
         left: 10px;
         top: 20px;
@@ -866,7 +866,7 @@ footer {
         width: 80%;
         position: absolute;
         left: 20px;
-        top: 30px;
+        top: 20px;
     }
     #fname {
         width: 55%;
@@ -916,35 +916,35 @@ footer {
     }
     #recording {
         position: absolute;
-        left: 150px;
+        left: 130px;
         top: 300px;
     }
     #recording-label {
         position: absolute;
-        left: 180px;
+        left: 160px;
         top: 300px;
     }
     #enquiry {
         position: absolute;
-        left: 20px;
-        top: 330px;
+        left: 240px;
+        top: 300px;
     }
     #enquiry-label {
         position: absolute;
-        left: 50px;
-        top: 330px;
+        left: 270px;
+        top: 300px;
     }
-    #enquiry-text {
+    #enquiry-box-label {
         position: absolute;
         left: 20px;
         top: 350px;
     }
     #enquiry-box {
-        width: 85%;
-        height: 300px;
+        width: 90%;
+        height: 200px;
         position: absolute;
         left: 20px;
-        top: 400px ;
+        top: 380px ;
     }
     footer {
         margin: 0 auto;
