@@ -998,7 +998,7 @@ footer {
     }
     .enquiry-form {
         width: 100%;
-        height: 700px;
+        height: 680px;
         position: absolute;
         left: 10px;
         top: 20px;
@@ -1048,43 +1048,43 @@ footer {
     #rehearsal {
         position: absolute;
         left: 20px;
-        top: 300px;
+        top: 270px;
     }
     #rehearsal-label {
         position: absolute;
         left: 50px;
-        top: 300px;
+        top: 270px;
     }
     #recording {
         position: absolute;
-        left: 150px;
-        top: 300px;
+        left: 130px;
+        top: 270px;
     }
     #recording-label {
         position: absolute;
-        left: 180px;
-        top: 300px;
+        left: 160px;
+        top: 270px;
     }
     #enquiry {
         position: absolute;
-        left: 20px;
-        top: 330px;
+        left: 240px;
+        top: 270px;
     }
     #enquiry-label {
         position: absolute;
-        left: 50px;
-        top: 330px;
+        left: 270px;
+        top: 270px;
     }
-    #enquiry-text {
+    #enquiry-box-label {
         position: absolute;
         left: 20px;
-        top: 350px;
+        top: 320px;
     }
     #enquiry-box {
         width: 90%;
         height: 300px;
         position: absolute;
         left: 20px;
-        top: 370px ;
+        top: 350px ;
     }
 }
