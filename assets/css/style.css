@@ -300,38 +300,28 @@ a {
 /*contact page sections*/
 #enquiries {
     clear: left;
-    background: url('../images/contact_page_image.jpg');
-    background-size: cover;
-    background-position: center;
     height: 900px;
     overflow: hidden;
     position: relative;
     color: #ffffff;
 }
-
 .enquiry-form {
     color: #ffffff;
-    background-color: #3a3a3a;
+    background-color: #000000;
     opacity: 50%;
-    width: 800px;
+    width: 45%;
     height: 600px;
     position: absolute;
-    left: 30px;
+    left: 10px;
     top: 30px;
-    padding: 30px;
 }
-
-.enquiry-form > h2 {
+#form-heading {
     color: #fafafa;
     margin-bottom: 20px;
-}
-
-#form-heading {
     position: absolute;
-    top: 30px;
-    left: 60px;
+    top: 10px;
+    left: 20px;
 }
-
 .text-input {
     background-color: #ffffff;
     color: #3a3a3a;
@@ -340,96 +330,84 @@ a {
     margin: 5px 0 20px 0;
     border-radius: 2px;
 }
-
 .text-input:hover {
     border-color: #3a3a3a;
 }
-
 #fname {
+    width: 27%;
     position: absolute;
-    left: 170px;
+    left: 130px;
     top: 100px;
 }
-
 #fname-label {
     position: absolute;
-    left: 60px;
+    left: 20px;
     top: 110px;
 }
-
 #lname {
+    width: 27%;
     position: absolute;
-    left: 570px;
+    left: 410px;
     top: 100px;
 }
-
 #lname-label {
     position: absolute;
-    left: 480px;
+    left: 320px;
     top: 110px;
 }
-
 #email {
+    width: 27%;
     position: absolute;
-    left: 170px;
+    left: 130px;
     top: 150px;
 }
-
 #email-label {
     position: absolute;
-    left: 60px;
+    left: 20px;
     top: 160px;
 }
-
 #rehearsal {
     position: absolute;
-    left: 55px;
+    left: 15px;
     top: 210px;
     
 }
-
 #rehearsal-label {
     position: absolute;
-    left: 80px;
+    left: 40px;
     top: 210px;
 }
-
 #recording {
     position: absolute;
-    left: 160px;
+    left: 130px;
     top: 210px;
 }
-
 #recording-label {
     position: absolute;
-    left: 190px;
+    left: 155px;
     top: 210px;
 }
-
 #enquiry {
+    position: absolute;
+    left: 250px;
+    top: 210px;
+}
+#enquiry-label {
     position: absolute;
     left: 275px;
     top: 210px;
 }
-
-#enquiry-label {
-    position: absolute;
-    left: 305px;
-    top: 210px;
-}
-
 #enquiry-box {
     position: absolute;
-    left: 60px;
+    left: 20px;
     top: 300px;
-    width: 600px;
+    width: 92%;
     height: 200px;
 }
-
 #enquiry-box-label {
     position: absolute;
-    left: 60px;
-    top: 250px;
+    left: 20px;
+    top: 260px;
 }
 
 /*footer containing social links*/
