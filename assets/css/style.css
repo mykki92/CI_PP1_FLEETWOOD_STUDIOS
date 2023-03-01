@@ -612,9 +612,13 @@ footer {
         text-align: center;
     }
     #room-one {
-        height: 850px;
+        height: 650px;
         width: 100%;
-        font-size: 70%;
+        font-size: 80%;
+    }
+    #room-one-image {
+        width: 100%;
+        height: 250px;
     }
     #room-one-left {
         width: 95%;
@@ -629,9 +633,13 @@ footer {
         text-align: left;
     }
     #room-two {
-        height: 850px;
+        height: 650px;
         width: 100%;
-        font-size: 70%;
+        font-size: 80%;
+    }
+    #room-two-image {
+        width: 100%;
+        height: 250px;
     }
     #room-two-left {
         width: 95%;
@@ -646,9 +654,13 @@ footer {
         text-align: left;
     }
     #live-room {
-        height: 850px;
+        height: 650px;
         width: 100%;
-        font-size: 70%;
+        font-size: 80%;
+    }
+    #live-room-image {
+        width: 100%;
+        height: 250px;
     }
     #live-room-left {
         width: 95%;
