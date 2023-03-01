@@ -583,31 +583,32 @@ footer {
     }
     #rehearsal-info {
         width: 100%;
-        height: 750px;
+        height: 600px;
     }
     #rehearsal-image-outer {
-        width: 95%;
-        max-width: 320px;
-        height: 320px;
+        width: 250px;
+        height: 250px;
         margin: 0 auto;
-        padding-top: 230px;
+        padding-top: 20px;
     }
     #rehearsal-image {
-        width: 95%;
-        height: 300px;
+        width: 250px;
+        height: 250px;
         margin: 0 auto;
     }
     #about-left {
-        width: 95%;
-        margin: 0 auto;
-        padding-top: 50px;
-        padding-left: 0px;
+        width: 100%;
+        position: absolute;
+        left: 0px;
+        top: 290px;
         text-align: center;
+        padding-left: 0px;
     }
     #about-right {
-        width: 95%;
-        margin: 0 auto;
-        padding-top: 350px;
+        width: 100%;
+        position: absolute;
+        left: 0px;
+        top: 420px;
         text-align: center;
     }
     #room-one {
@@ -685,7 +686,7 @@ footer {
     /*contact page*/
     #contact {
         width: 100%;
-        height: 1300px;
+        height: 1350px;
     }
     /*enquiry and booking form*/
     #enquiries {
@@ -808,7 +809,8 @@ footer {
         height: 100px;
         position: absolute;
         left: 0px;
-        top: 1250px;
+        top: 1275px;
+        text-align: center;
     }
     #address {
         width: 100%;
