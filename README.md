@@ -231,6 +231,10 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Studio Introduction | Scroll to the text visible below the main image on the home page | Find information about the studio | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2v1-10.png">
+</details>
+
 2. As a first time user, I want to know where the studio is located.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
