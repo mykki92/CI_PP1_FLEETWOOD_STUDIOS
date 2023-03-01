@@ -235,3 +235,5 @@ You can clone the repository by following these steps:
 ### Code
 
 ## Acknowledgements
+- My Code Institute Mentor Mo Shami for his guidance and advice.
+- Code Institute learning modules and tutor support.
