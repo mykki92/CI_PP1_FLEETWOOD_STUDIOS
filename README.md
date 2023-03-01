@@ -73,8 +73,10 @@
 ## Design
 
 ### Design Choices
+The website was designed to be simple but stylish, the site uses multiple images so use of fonting and color was kept minimal so as not to overcrowd the pages.
 
 ### Colour
+The font color was set to grey and black with a white background so as not to clash with other elements on the page and to present information simply and clearly. The background color of the textbox over the main image on the home page was color picked from the image to be consistent with the tone of the page. All pages were tested and validated for contrast.
 
 ### Fonts
 Philosopher as the preferred font to be consistent with the tone and style of the page, with Arial as the websafe font and sans-serif as fallback.
@@ -187,14 +189,16 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 ### Device testing 
 The website was tested on the following devices:
 - Google Pixel 7
-- HP Laptop 14
+- Samsung Galaxy A7 Lite Tab
 - HP Laptop 14
 - Apple iMac
 
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
+- Microsoft Edge
 - Mozilla Firefox
+- Safari
 
 ### Testing user stories
 
