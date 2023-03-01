@@ -66,6 +66,19 @@
 
 ### Wireframes
 
+<details><summary>Home</summary>
+<img src="docs/wireframes/wireframes-home.png">
+</details>
+<details><summary>Rehearsal</summary>
+<img src="docs/wireframes/wireframes-rehearsal.png">
+</details>
+<details><summary>Recording</summary>
+<img src="docs/wireframes/wireframes-recording.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/wireframes-contact.png">
+</details>
+
 ## Technologies Used
 
 ### Languages
