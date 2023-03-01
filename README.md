@@ -77,6 +77,9 @@
 8. As a returning user, I want to be able to find the studio on social media.
 
 #### Site Owner
+9. As the site owner, I want users to find information about the studio facilities.
+10. As the site owner, I want users to know the location of the studio.
+11. As the site owner, I want users to know how to make enquiries and bookings.
 
 ## Design
 
