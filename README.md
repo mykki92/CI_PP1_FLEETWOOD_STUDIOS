@@ -176,6 +176,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ## Bugs
 
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Nav bar does not collapse proportionately when screen reduced to smaller size | Not yet fixed |
+
 ## Deployment
 
 ## Credits
