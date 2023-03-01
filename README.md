@@ -26,13 +26,71 @@
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
+    5. [Device testing](#device-testing)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals 
+
+### User Goals
+
+### Site Owner Goals
+
+## User Experience
+
+### Target Audience
+
+### User Requrements and Expectations
+
+### User Stories
+
+#### First-time User 
+
+#### Returning User
+
+#### Site Owner
+
+## Design
+
+### Design Choices
+
+### Colour
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- Balsamiq
+- Google Fonts
+- Font Awsome
+- Favicon
+
+## Features
+
+### Logo and Navigation Bar
+
+### Footer
+
+### Contact Form
+
+### Map
 
 ## Validation
 
@@ -89,3 +147,21 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>Contact</summary>
 <img src="docs/validation/lighthouse-performance-contact.png">
 </details>
+
+### Device testing 
+
+### Browser compatability
+
+### Testing user stories
+
+## Bugs
+
+## Deployment
+
+## Credits
+
+### Media
+
+### Code
+
+## Acknowledgements
