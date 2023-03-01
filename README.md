@@ -235,15 +235,15 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact page, locate the Google Map | Locating a map showing the location of the studio | Works as expected |
+| Map | Navigate to the Contact page, locate the Google Map | Locate a map showing the location of the studio | Works as expected |
 | Contact bar | On the contact page scroll down below the form and map | Find the address of the studio | Works as expected |
 
 3. As a first time user, I want to know how to contact the studio.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Booking link | Navigate to the bottom of the home page | Locating a link to a contact and booking form | Works as expected |
-| Contact bar | On the contact page scroll down below the form and map | Find an address, phone number and email address for the studio | Works as expected |
+| Booking link | Navigate to the bottom of the home page | Locate a link to a contact and booking form | Works as expected |
+| Navigation bar | Find at the top of any page | Find navigation options for the site including "Contact" | Works as expected |
 
 4. As a first time user, I want to know what to expect from the studio experience.
 
@@ -288,31 +288,17 @@ The website was tested on the following browsers:
 
 10. As the site owner, I want users to know the location of the studio.
 
-
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Contact page, locate the Google Map | Locating a map showing the location of the studio | Works as expected |
+| Contact bar | On the contact page scroll down below the form and map | Find the address of the studio | Works as expected |
 
 11. As the site owner, I want users to know how to make enquiries and bookings.
 
-
-
-### Logo and Navigation Bar
-
-### Main image and text box
-
-### Studio Introduction
-
-### Booking link
-
-### Rehearsal room overview
-
-### Recording studio overview
-
-### Enquiry and booking form
-
-### Map
-
-### Contact bar
-
-### Footer
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact form | Navigate to the contact page | Find a contact form with options to book rehearsals or recording or make general enquiries | Works as expected |
+| Booking link | Navigate to the bottom of the home page | Locate a link to a contact and booking form | Works as expected |
 
 ## Bugs
 
