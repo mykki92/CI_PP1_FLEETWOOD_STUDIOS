@@ -84,10 +84,10 @@ Philosopher as the preferred font to be consistent with the tone and style of th
 ### Structure
 The page is structured in a simple, user-friendly and easily-navigatible way. Upon arriving at the website homepage, the user sees the studio logo on the top left side and the navigation links to the top right. The website consists of four separate pages:
 
-A homepage with an image of the studio and general information about the facilities.
-A rehearsal page detailing the different rehearsal rooms and the equipment available.
-A recording page featuring an image of the studio and more specific information about the recording facilities, equipment and personnel.
-A contact page with an enquiry and booking form, a map and contact information.
+- A homepage with an image of the studio and general information about the facilities.
+- A rehearsal page detailing the different rehearsal rooms and the equipment available.
+- A recording page featuring an image of the studio and more specific information about the recording facilities, equipment and personnel.
+- A contact page with an enquiry and booking form, a map and contact information.
 
 ### Wireframes
 
