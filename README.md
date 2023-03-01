@@ -253,6 +253,7 @@ The website was tested on the following browsers:
 | Studio Introduction | Scroll to the text visible below the main image on the home page | Find information about the studio | Works as expected |
 
 5. As a returning user, I want to know what equipment is available to use.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Rehearsal room overview | Navigate to the rehearsal page and scroll down the page | Find images of the rehearsal rooms with a list of equipment available | Works as expected |
@@ -260,19 +261,30 @@ The website was tested on the following browsers:
 
 6. As a returning user, I want to know more about the studio team and recording options available.
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Recording studio overview | Navigate to the recording page | Find information about the sound engineers and session musicians | Works as expected |
 
 
 7. As a returning user, I want to know how to make enquiries and bookings.
 
-
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact form | Navigate to the contact page | Find a contact form with options to book rehearsals or recording or make general enquiries | Works as expected |
 
 8. As a returning user, I want to be able to find the studio on social media.
 
-
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll to the bottom of any page | Find link icons to the studios social media pages | Works as expected |
 
 9. As the site owner, I want users to find information about the studio facilities.
 
-
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Studio Introduction | Scroll to the text visible below the main image on the home page | Find information about the studio | Works as expected |
+| Rehearsal room overview | Navigate to the rehearsal page and scroll down the page | Find images of the rehearsal rooms with a list of equipment available | Works as expected |
+| Recording studio overview | Navigate to the recording page | Find information about the recording studio equipment and recording team | Works as expected |
 
 10. As the site owner, I want users to know the location of the studio.
 
@@ -294,7 +306,7 @@ The website was tested on the following browsers:
 
 ### Recording studio overview
 
-### Contact Form
+### Enquiry and booking form
 
 ### Map
 
