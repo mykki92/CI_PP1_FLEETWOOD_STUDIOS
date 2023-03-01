@@ -50,8 +50,17 @@
 ## User Experience
 
 ### Target Audience
+- People looking for a place to rehearse their music.
+- People looking for a place to record their music.
 
-### User Requrements and Expectations
+### User Requirements and Expectations
+- A simple and intuitive navigation system.
+- Find relevant information quickly and easily.
+- Links and functions that work as expected.
+- Good presentation and a visually appealing design regardless of screen size.
+- Clear contact information and simple way to contact the studio.
+- Simple and clear content that can be understood quickly. 
+- Good accessibility and performance.
 
 ### User Stories
 
