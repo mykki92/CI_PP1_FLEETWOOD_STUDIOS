@@ -329,6 +329,11 @@ You can clone the repository by following these steps:
 ## Credits
 
 ### Media
+Images courtesy of Shutterstock.com:
+- [studio_main_image] (assets/images/studio_main_image.jpg)
+- [room_two] (assets/images/room_two.jpg)
+- [live_room] (assets/images/live_room.jpg)
+- [recording_studio_main] (assets/images/recording_studio_main.jpg)
 
 ### Code
 
