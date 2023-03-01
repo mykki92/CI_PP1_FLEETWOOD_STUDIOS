@@ -406,7 +406,7 @@ The website was tested on the following browsers:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Nav bar does not collapse proportionately when screen reduced to smaller size | Not yet fixed |
+| Nav bar does not collapse proportionately when screen reduced to smaller size | Use flexbox CSS to make responsive |
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
