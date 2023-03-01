@@ -502,8 +502,10 @@ footer {
     position: relative;
 }
 .header404 {
+    width: 100%;
+    font-size: 400%;
     margin: 0 auto;
-    font-size: 200%;
+    text-align: center;
 }
 .content-404 {
     margin: 0 auto;
@@ -511,6 +513,7 @@ footer {
     font-size: 140%;
 }
 .homepage-link {
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     font-size: 120%;
