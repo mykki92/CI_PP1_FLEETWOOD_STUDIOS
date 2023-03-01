@@ -7,6 +7,8 @@ body {
 }
 
 /*logo and navigation*/
+
+
 #logo {
     margin: 0;
     padding: 0;
@@ -472,7 +474,7 @@ a {
 footer {
     margin-top: 5px;
     height: 100px;
-    width: 100%;
+    width: 95%;
 }
 
 .social-links {
@@ -541,12 +543,11 @@ footer {
         width: 90%;
         margin: 0 auto;
     }
-    #navbar li {
-        display: inline-block;
-        width: 25%;
-        margin: 0 auto;
-        text-align: left;
-        font-size: 100%;
+    #navbar {
+        font-size: 80%;
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-evenly;
     }
     #header-text {
         width: 80%;
@@ -557,29 +558,35 @@ footer {
         top: 50px;
     }
     #studio-info {
-        height: 550px;
+        height: 500px;
     }
     #info-left {
         width: 95%;
-        margin: 0 auto;
         text-align: center;
-        padding-left: 10px;
+        position: absolute;
+        left: 10px;
+        top: 0px;
+        padding-top: 0px;
     }
     #info-right {
         width: 95%;
-        margin: 0 auto;
         text-align: center;
+        position: absolute;
+        left: 10px;
+        top: 100px;
     }
     #info-center {
         width: 95%;
-        margin: 0 auto;
         text-align: center;
-    }
-    #info-bottom {
-        width: 100%;
         position: absolute;
         left: 10px;
-        top: 420px;
+        top: 210px;
+    }
+    #info-bottom {
+        width: 95%;
+        position: absolute;
+        left: 10px;
+        top: 350px;
         text-align: center;
     }
     #rehearsal-info {
@@ -838,12 +845,10 @@ footer {
         width: 90%;
         margin: 0 auto;
     }
-    #navbar li {
-        display: inline-block;
-        width: 25%;
-        margin: 0 auto;
-        text-align: left;
-        font-size: 120%;
+    #navbar {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-evenly;
     }
     #header-text {
         width: 80%;
