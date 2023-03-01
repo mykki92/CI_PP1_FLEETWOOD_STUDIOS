@@ -65,8 +65,16 @@
 ### User Stories
 
 #### First-time User 
+1. As a first time user, I want to know more about the studio.
+2. As a first time user, I want to know where the studio is located
+3. As a first time user, I want to know how to contact the studio.
+4. As a first time user, I want to know what to expect from the studio experience.
 
 #### Returning User
+5. As a returning user, I want to know what equipment is available to use.
+6. As a returning user, I want to know more about the studio team and recording options available.
+7. As a returning user, I want to know how to make enquiries and bookings.
+8. As a returning user, I want to be able to find the studio on social media.
 
 #### Site Owner
 
