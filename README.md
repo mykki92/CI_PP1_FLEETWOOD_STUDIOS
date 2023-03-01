@@ -232,7 +232,7 @@ The website was tested on the following browsers:
 | Studio Introduction | Scroll to the text visible below the main image on the home page | Find information about the studio | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-2v1-10.png">
+<img src="docs/user-story-testing/user-story-1-4-9.png">
 </details>
 
 2. As a first time user, I want to know where the studio is located.
@@ -242,12 +242,22 @@ The website was tested on the following browsers:
 | Map | Navigate to the Contact page, locate the Google Map | Locate a map showing the location of the studio | Works as expected |
 | Contact bar | On the contact page scroll down below the form and map | Find the address of the studio | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2v1-10.png">
+<img src="docs/user-story-testing/user-story-2v2-10.png">
+</details>
+
 3. As a first time user, I want to know how to contact the studio.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Booking link | Navigate to the bottom of the home page | Locate a link to a contact and booking form | Works as expected |
 | Navigation bar | Find at the top of any page | Find navigation options for the site including "Contact" | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3v1-11.png">
+<img src="docs/user-story-testing/user-story-3v2.png">
+</details>
 
 4. As a first time user, I want to know what to expect from the studio experience.
 
@@ -256,6 +266,11 @@ The website was tested on the following browsers:
 | Main image and text box | Navigate to the home page | Find an image of the studio with a brief description | Works as expected |
 | Studio Introduction | Scroll to the text visible below the main image on the home page | Find information about the studio | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4v1.png">
+<img src="docs/user-story-testing/user-story-1-4-9.png">
+</details>
+
 5. As a returning user, I want to know what equipment is available to use.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -263,12 +278,20 @@ The website was tested on the following browsers:
 | Rehearsal room overview | Navigate to the rehearsal page and scroll down the page | Find images of the rehearsal rooms with a list of equipment available | Works as expected |
 | Recording studio overview | Navigate to the recording page | Find information about the recording console | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5v1-9.png">
+<img src="docs/user-story-testing/user-story-5v2-6-9.png">
+</details>
+
 6. As a returning user, I want to know more about the studio team and recording options available.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Recording studio overview | Navigate to the recording page | Find information about the sound engineers and session musicians | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5v2-6-9.png">
+</details>
 
 7. As a returning user, I want to know how to make enquiries and bookings.
 
@@ -276,11 +299,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Contact form | Navigate to the contact page | Find a contact form with options to book rehearsals or recording or make general enquiries | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-11.png">
+</details>
+
 8. As a returning user, I want to be able to find the studio on social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any page | Find link icons to the studios social media pages | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.png">
+</details>
 
 9. As the site owner, I want users to find information about the studio facilities.
 
@@ -290,6 +321,12 @@ The website was tested on the following browsers:
 | Rehearsal room overview | Navigate to the rehearsal page and scroll down the page | Find images of the rehearsal rooms with a list of equipment available | Works as expected |
 | Recording studio overview | Navigate to the recording page | Find information about the recording studio equipment and recording team | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1-4-9.png">
+<img src="docs/user-story-testing/user-story-5v1-9.png">
+<img src="docs/user-story-testing/user-story-5v2-6-9.png">
+</details>
+
 10. As the site owner, I want users to know the location of the studio.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -297,12 +334,22 @@ The website was tested on the following browsers:
 | Map | Navigate to the Contact page, locate the Google Map | Locating a map showing the location of the studio | Works as expected |
 | Contact bar | On the contact page scroll down below the form and map | Find the address of the studio | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2v1-10.png">
+<img src="docs/user-story-testing/user-story-2v2-10.png">
+</details>
+
 11. As the site owner, I want users to know how to make enquiries and bookings.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact form | Navigate to the contact page | Find a contact form with options to book rehearsals or recording or make general enquiries | Works as expected |
 | Booking link | Navigate to the bottom of the home page | Locate a link to a contact and booking form | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-11.png">
+<img src="docs/user-story-testing/user-story-3v1-11.png">
+</details>
 
 ## Bugs
 
