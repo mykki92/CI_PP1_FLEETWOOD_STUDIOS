@@ -77,6 +77,7 @@
 ### Colour
 
 ### Fonts
+Philosopher as the preferred font to be consistent with the tone and style of the page, with Arial as the websafe font and sans-serif as fallback.
 
 ### Structure
 The page is structured in a simple, user-friendly and easily-navigatible way. Upon arriving at the website homepage, the user sees the studio logo on the top left side and the navigation links to the top right. The website consists of four separate pages:
@@ -111,7 +112,7 @@ A contact page with an enquiry and booking form, a map and contact information.
 - Git
 - GitHub
 - Gitpod
-- Tinypng
+- TinyPNG
 - Balsamiq
 - Google Fonts
 - Font Awsome
@@ -184,8 +185,16 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 
 ### Device testing 
+The website was tested on the following devices:
+- Google Pixel 7
+- HP Laptop 14
+- HP Laptop 14
+- Apple iMac
 
 ### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
 
 ### Testing user stories
 
