@@ -1,3 +1,4 @@
+/*google font*/
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Philosopher&display=swap');
 
 body {
@@ -97,14 +98,6 @@ a {
 #info-bottom a:hover {
     text-decoration: underline;
 }
-#networking-box p {
-    text-align: center;
-    width: 250px;
-    margin-top: 85px;
-    margin-left: 25px;
-    font-weight: bolder;
-    color: #000000;
-}
 
 /*rehearsal page sections*/
 #rehearsal-info {
@@ -112,7 +105,6 @@ a {
     height: 450px;
     overflow: hidden;
 }
-
 #about-left {
     float: left;
     width: 25%;
@@ -121,7 +113,6 @@ a {
     padding-left: 30px;
     font-size: 130%;
 }
-
 #about-right {
     float: right;
     width: 25%;
@@ -130,7 +121,6 @@ a {
     padding-right: 30px;
     font-size: 130%;
 }
-
 #rehearsal-image-outer {
     width: 400px;
     height: 400px;
@@ -138,106 +128,93 @@ a {
     margin: 0 auto;
     padding-top: 25px;
 }
-
 #rehearsal-image {
     background: url('../images/singer_and_guitar_player.jpg') no-repeat center center;
     width: 100%;
     height: 100%;
     border-radius: 50%;
 }
-
+/*room one*/
 #room-one {
     width: 100%;
     height: 800px;
 }
-
 #room-one-image {
     width: 100%;
     height: 500px;
     background: url('../images/room_one.jpg') no-repeat center center;
     background-size: 100% 100%
 }
-
 #room-one-left {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #room-one-right {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #room-one-center {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
+/*room two*/
 #room-two {
     width: 100%;
     height: 800px;
 }
-
 #room-two-image {
     width: 100%;
     height: 500px;
     background: url('../images/room_two.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
-
 #room-two-left {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #room-two-center {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #room-two-right {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
+/*live room*/
 #live-room {
     width: 100%;
     height: 800px;
 }
-
 #live-room-image {
     width: 100%;
     height: 500px;
     background: url('../images/live_room.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
-
 #live-room-left {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #live-room-center {
     vertical-align: top;
     display: inline-block;
     width: 30%;
     padding-left: 10px;
 }
-
 #live-room-right {
     vertical-align: top;
     display: inline-block;
@@ -252,14 +229,12 @@ a {
     overflow: hidden;
     position: relative;
 }
-
 #recording-image {
     width: 100%;
     height: 500px;
     background: url('../images/recording_studio_main.jpg') no-repeat center center;
     background-size: 100% 100%;
 }
-
 #recording-info-left {
     vertical-align: top;
     display: inline-block;
@@ -267,7 +242,6 @@ a {
     padding-left: 10px;
     text-align: center;
 }
-
 #recording-info-center {
     vertical-align: top;
     display: inline-block;
@@ -275,7 +249,6 @@ a {
     padding-left: 10px;
     text-align: center;
 }
-
 #recording-info-right {
     vertical-align: top;
     display: inline-block;
@@ -319,6 +292,7 @@ a {
     top: 10px;
     left: 20px;
 }
+/*text inputs and labels*/
 .text-input {
     background-color: #ffffff;
     color: #3a3a3a;
@@ -363,11 +337,11 @@ a {
     left: 20px;
     top: 160px;
 }
+/*radio buttons and labels*/
 #rehearsal {
     position: absolute;
     left: 15px;
     top: 210px;
-    
 }
 #rehearsal-label {
     position: absolute;
@@ -394,6 +368,7 @@ a {
     left: 275px;
     top: 210px;
 }
+/*enquiry text box*/
 #enquiry-box {
     position: absolute;
     left: 20px;
@@ -454,26 +429,24 @@ a {
     padding-left: 10px;
     text-align: center;
 }
+
 /*footer containing social links*/
 footer {
     margin-top: 5px;
     height: 100px;
     width: 95%;
 }
-
 .social-links {
     text-align: center;
     height: 60px;
     margin: 0 auto;
 }
-
 .social-links > li {
     display: inline-block;
     vertical-align: top;
     width: 15%;
     padding-top: 20px;
 }
-
 .social-links i {
     font-size: 130%;
     margin: 0;
@@ -515,6 +488,7 @@ footer {
 
 /*media queries*/
 @media screen and (min-width: 320px) and (max-width: 450px) {
+    /*logo and navigation*/
     #header {
         width: 100%;
     }
@@ -533,6 +507,8 @@ footer {
         flex-direction: row-reverse;
         justify-content: space-evenly;
     }
+
+    /*home page*/
     #header-image-outer {
         width: 100%;
         height: 350px;
@@ -581,6 +557,8 @@ footer {
         top: 350px;
         text-align: center;
     }
+
+    /*rehearsal page*/
     #rehearsal-info {
         width: 100%;
         height: 600px;
@@ -611,6 +589,7 @@ footer {
         top: 420px;
         text-align: center;
     }
+    /*room one*/
     #room-one {
         height: 650px;
         width: 100%;
@@ -632,6 +611,7 @@ footer {
         width: 95%;
         text-align: left;
     }
+    /*room two*/
     #room-two {
         height: 650px;
         width: 100%;
@@ -653,6 +633,7 @@ footer {
         width: 95%;
         text-align: left;
     }
+    /*live room*/
     #live-room {
         height: 650px;
         width: 100%;
@@ -674,6 +655,8 @@ footer {
         width: 95%;
         text-align: left;
     }
+
+    /*recording page*/
     #recording-info{
         width: 100%;
         height: 720px;
@@ -695,6 +678,7 @@ footer {
         width: 95%;
         text-align: center;
     }
+
     /*contact page*/
     #contact {
         width: 100%;
@@ -719,6 +703,7 @@ footer {
         left: 20px;
         top: 20px;
     }
+    /*text inputs and labels*/
     #fname {
         width: 55%;
         position: absolute;
@@ -755,6 +740,7 @@ footer {
         left: 20px;
         top: 250px;
     }
+    /*radio buttons and labels*/
     #rehearsal {
         position: absolute;
         left: 20px;
@@ -785,6 +771,7 @@ footer {
         left: 50px;
         top: 330px;
     }
+    /*enquiry text box*/
     #enquiry-box-label {
         position: absolute;
         left: 20px;
@@ -843,6 +830,7 @@ footer {
 }
 
 @media screen and (min-width: 451px) and (max-width: 950px) {
+    /*logo and navigation*/
     #header {
         width: 100%;
     }
@@ -860,6 +848,8 @@ footer {
         flex-direction: row-reverse;
         justify-content: space-evenly;
     }
+
+    /*home page*/
     #header-text {
         width: 80%;
         height: 90px;
@@ -878,7 +868,9 @@ footer {
         left: 10px;
         top: 300px;
         text-align: center;
-    }    
+    }  
+    
+    /*rehearsal page*/
     #rehearsal-info {
         width: 100%;
         height: 600px;
@@ -908,6 +900,7 @@ footer {
         padding-left: 5px;
         text-align: center;
     }
+    /*room one*/
     #room-one {
         height: 900px;
         width: 100%;
@@ -929,6 +922,7 @@ footer {
         width: 95%;
         text-align: left;
     }
+    /*room two*/
     #room-two {
         height: 900px;
         width: 100%;
@@ -950,6 +944,7 @@ footer {
         width: 95%;
         text-align: left;
     }
+    /*live room*/
     #live-room {
         height: 900px;
         width: 100%;
@@ -971,6 +966,8 @@ footer {
         width: 95%;
         text-align: left;
     }
+
+    /*recording page*/
     #recording-info{
         width: 100%;
         height: 800px;
@@ -988,6 +985,7 @@ footer {
         width: 95%;
         text-align: center;
     }
+
     /*contact page*/
     #contact {
         width: 100%;
@@ -1012,6 +1010,7 @@ footer {
         left: 20px;
         top: 0px;
     }
+    /*text inputs and labels*/
     #fname {
         width: 55%;
         position: absolute;
@@ -1048,6 +1047,7 @@ footer {
         left: 20px;
         top: 200px;
     }
+    /*radio buttons and labels*/
     #rehearsal {
         position: absolute;
         left: 20px;
@@ -1078,6 +1078,7 @@ footer {
         left: 270px;
         top: 250px;
     }
+    /*enquiry textbox*/
     #enquiry-box-label {
         position: absolute;
         left: 20px;
@@ -1095,6 +1096,7 @@ footer {
         left: 20px;
         top: 570px;
     }
+    /*embedded google map*/
     #google-map {
         width: 100%;
         height: 400px;
@@ -1130,6 +1132,7 @@ footer {
         padding-left: 10px;
         text-align: center;
     }
+
     /*footer with social media links*/
     footer {
         margin: 0 auto;
@@ -1165,6 +1168,7 @@ footer {
         margin: 0 auto;
         padding-top: 100px;
     }
+
     /*recording page*/
     #recording-info {
         width: 100%;
@@ -1178,6 +1182,7 @@ footer {
         top: 170px;
         text-align: center;
     }
+
     /*contact page*/
     #contact {
         width: 100%;
@@ -1202,6 +1207,7 @@ footer {
         left: 20px;
         top: 10px;
     }
+    /*text inputs and labels*/
     #fname {
         width: 55%;
         position: absolute;
@@ -1238,6 +1244,7 @@ footer {
         left: 20px;
         top: 200px;
     }
+    /*radio buttons and labels*/
     #rehearsal {
         position: absolute;
         left: 20px;
@@ -1268,6 +1275,7 @@ footer {
         left: 270px;
         top: 270px;
     }
+    /*enquiry textbox*/
     #enquiry-box-label {
         position: absolute;
         left: 20px;
