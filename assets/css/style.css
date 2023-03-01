@@ -663,8 +663,12 @@ footer {
     }
     #recording-info{
         width: 100%;
-        height: 1000px;
+        height: 750px;
         font-size: 80%;
+    }
+    #recording-image {
+        width: 100%;
+        height: 250px;
     }
     #recording-info-left {
         width: 95%;
