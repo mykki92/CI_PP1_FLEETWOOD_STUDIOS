@@ -330,14 +330,14 @@ You can clone the repository by following these steps:
 
 ### Media
 Images courtesy of Shutterstock.com:
-- [![studio_main_image] (assets/images/studio_main_image.jpg)]
-- [room_one] (assets/images/room_one.jpg)
-- [room_two] (assets/images/room_two.jpg)
-- [live_room] (assets/images/live_room.jpg)
-- [recording_studio_main] (assets/images/recording_studio_main.jpg)
+- [studio_main_image](assets/images/studio_main_image.jpg)
+- [room_one](assets/images/room_one.jpg)
+- [room_two](assets/images/room_two.jpg)
+- [live_room](assets/images/live_room.jpg)
+- [recording_studio_main](assets/images/recording_studio_main.jpg)
 
 Images courtesy of Vecteezy.com:
-- [singer_and_guitar_player] (assets/images/singer_and_guitar_player.jpg)
+- [singer_and_guitar_player](assets/images/singer_and_guitar_player.jpg)
 
 ### Code
 
