@@ -141,44 +141,68 @@ The site consists of four pages and nine features.
 - The link for the active page is underlined.
 - User stories covered: 3.
 
+![Logo and Navigation Bar](docs/features/feature-logo-and-navigation-bar.png)
+
 ### Main image and text box
 - Shows user an image of the studio to get a feel of the atmosphere.
 - Gives a basic description of the studio.
 - User stories covered: 4.
 
+![Main image and text box](docs/features/feature-main-image-and-text-box.png)
+
 ### Studio Introduction
 - Provides more in-depth information about the studio facilities and equipment.
 - User stories covered: 1, 4, 9.
 
+![Studio Introduction](docs/features/feature-studio-introduction.png)
+
 ### Booking link
 - Provides a link for the user on the home page to quickly navigate to a page where they can make enquiries and bookings.
 - User stories covered: 3, 11.
+
+![Booking link](docs/features/feature-booking-link.png)
 
 ### Rehearsal room overview
 - Shows images of the rehearsal rooms available.
 - Details a list of equipment provided in each rehearsal room.
 - User stories covered: 5, 9.
 
+![Rehearsal room overview](docs/features/feature-rehearsal-room-overview.png)
+
 ### Recording studio overview
 - Shows an image of the recording room at the studio.
 - Provides information on the recording console used, the recording personnel and session musicians that are available for recording sessions.
 - User stories covered: 5, 6, 9.
 
+![Recording studio overview](docs/features/feature-recording-studio-overview.png)
+
 ### Contact Form
 - Allows the user to make a booking for rehearsal or recording, or to make general enquiries.
 - User stories covered: 7, 11.
+
+![Contact form](docs/features/feature-contact-form.png)
+
 
 ### Map
 - Pinpoints the studio location on an embedded Google map.
 - User stories covered: 2, 10.
 
+![Map](docs/features/feature-map.png)
+
+
 ### Contact bar
 - Provides contact information to the user such as email address, phone number and street address.
 - User stories covered: 2, 10.
 
+![Contact-bar](docs/features/feature-contact-bar.png)
+
+
 ### Footer
 - Provides user with links to the studio social media pages.
 - User stories covered: 8.
+
+![Footer](docs/features/feature-footer.png)
+
 
 ## Validation
 
