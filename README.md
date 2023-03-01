@@ -132,26 +132,53 @@ The page is structured in a simple, user-friendly and easily-navigatible way. Up
 - Favicon
 
 ## Features
+The site consists of four pages and nine features.
 
 ### Logo and Navigation Bar
+- Features on all pages.
+- The navbar is fully responsive and and includes links to the Home page, Rehearsal page, Recording page and Contact page.
+- It allows users to easily navigate the site.
+- The link for the active page is underlined.
+- User stories covered: 3.
 
 ### Main image and text box
+- Shows user an image of the studio to get a feel of the atmosphere.
+- Gives a basic description of the studio.
+- User stories covered: 4.
 
 ### Studio Introduction
+- Provides more in-depth information about the studio facilities and equipment.
+- User stories covered: 1, 4, 9.
 
 ### Booking link
+- Provides a link for the user on the home page to quickly navigate to a page where they can make enquiries and bookings.
+- User stories covered: 3, 11.
 
 ### Rehearsal room overview
+- Shows images of the rehearsal rooms available.
+- Details a list of equipment provided in each rehearsal room.
+- User stories covered: 5, 9.
 
 ### Recording studio overview
+- Shows an image of the recording room at the studio.
+- Provides information on the recording console used, the recording personnel and session musicians that are available for recording sessions.
+- User stories covered: 5, 6, 9.
 
 ### Contact Form
+- Allows the user to make a booking for rehearsal or recording, or to make general enquiries.
+- User stories covered: 7, 11.
 
 ### Map
+- Pinpoints the studio location on an embedded Google map.
+- User stories covered: 2, 10.
 
 ### Contact bar
+- Provides contact information to the user such as email address, phone number and street address.
+- User stories covered: 2, 10.
 
 ### Footer
+- Provides user with links to the studio social media pages.
+- User stories covered: 8.
 
 ## Validation
 
