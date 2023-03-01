@@ -478,7 +478,7 @@ footer {
 .social-links {
     text-align: center;
     height: 60px;
-    overflow: hidden;
+    margin: 0 auto;
 }
 
 .social-links > li {
@@ -822,10 +822,7 @@ footer {
         padding-left: 10px;
         text-align: center;
     }
-    /*footer with social media links*/
-    footer {
-        margin: 0 auto;
-    }
+    
 }
 
 @media screen and (min-width: 451px) and (max-width: 950px) {
