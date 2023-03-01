@@ -37,8 +37,15 @@
 ## Project Goals 
 
 ### User Goals
-
+- Finding a high-quality recording studio and/or rehearsal space.
+- See an overview of the services provided and equipment available for use.
+- Find information about the studio and make an enquiry/booking.
+- Find the location of the studio
 ### Site Owner Goals
+- Increase interest in the studio and boost business.
+- Promote the studio.
+- Provide a way for new and existing customers to contact the studio.
+- Provide essential information about the studio to potential customers.
 
 ## User Experience
 
