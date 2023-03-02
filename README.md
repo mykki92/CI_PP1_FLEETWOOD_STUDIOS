@@ -1,6 +1,8 @@
 # Fleetwood Studios
 (Developer: Michael Roberts)
 
+![Mockup image](docs/am-i-responsive.png)
+
 [Live webpage] (https://mykki92.github.io/CI_PP1_FLEETWOOD_STUDIOS/)
 ## Table of Contents
 
