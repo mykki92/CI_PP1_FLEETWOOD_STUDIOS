@@ -441,8 +441,6 @@ Images courtesy of Shutterstock.com:
 Images courtesy of Vecteezy.com:
 - [singer_and_guitar_player](assets/images/singer_and_guitar_player.jpg)
 
-### Code
-
 ## Acknowledgements
 - My Code Institute Mentor Mo Shami for his guidance and advice.
 - Code Institute learning modules and tutor support.

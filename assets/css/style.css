@@ -502,12 +502,11 @@ footer {
         margin: 0 auto;
     }
     #navbar {
-        font-size: 80%;
+        font-size: 70%;
         display: flex;
         flex-direction: row-reverse;
         justify-content: space-evenly;
     }
-
     /*home page*/
     #header-image-outer {
         width: 100%;
